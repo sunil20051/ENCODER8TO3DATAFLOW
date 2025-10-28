@@ -54,4 +54,6 @@ Developed by: RegisterNumber:
 
 
 **RESULTS**
+Thus  are designed and the truth tables is verified using Quartus software.
+
 
