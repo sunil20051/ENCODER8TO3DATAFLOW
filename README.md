@@ -46,6 +46,7 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 <img width="602" height="402" alt="logic diagram exp5" src="https://github.com/user-attachments/assets/c95821ca-7dcb-4f24-801f-84317f8aa377" />
 
 
